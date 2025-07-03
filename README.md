@@ -1,6 +1,6 @@
 # 🥄✨ Serverless Spoon — AWS-powered Grocery-to-Meal Generator
 
-## Project Demo: https://www.loom.com/share/554df3d801f345af860d38ab09d372b2?sid=82ac0e06-690a-44d6-a04b-8617dcc2d394
+## Project Demo: https://www.loom.com/share/9ac9a7e5e53c4243bf658a8ced7bbc99?sid=f84d8fdb-78a3-40bf-b689-686c82c3472a
 
 ### 🥗 Project Overview
 
